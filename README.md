@@ -1,6 +1,8 @@
 # cat-dog-classification-tflite-flutter
 Switching from https://pub.dev/packages/tflite which is not currently supported by current flutter version.
 
+[![cat-dog-demo.gif](https://i.postimg.cc/G3qDqkcT/cat-dog-demo.gif)](https://postimg.cc/5jQjtQQf)
+
 Floating point tflite classification sample using tflite-flutter and tflite-helper
 
 1. https://pub.dev/documentation/tflite_flutter/latest/
