@@ -8,9 +8,9 @@ Floating point tflite classification sample using tflite-flutter and tflite-help
 
 ## Initial Setup
 On Windows just run the batch file
-![Windows just run the batch file](https://github.com/AJOV-Media/cat-dog-classification-tflite-flutter/blob/master/_blobs/install-tensor_flow_lib.jpg)
+![Windows just run the batch file](https://i.postimg.cc/X7VR2tbV/install-tensor-flow-lib.jpg)
 
 ## Model creation
 Using floating point tensorflow light https://teachablemachine.withgoogle.com/
 
-![Windows just run the batch file](https://github.com/AJOV-Media/cat-dog-classification-tflite-flutter/blob/master/_blobs/teachable_machine_cat_dog.jpg)
+![Windows just run the batch file](https://i.postimg.cc/BQMdRNS2/teachable-machine-cat-dog.jpg)
